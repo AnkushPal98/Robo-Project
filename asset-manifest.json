@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robo-Project/static/css/main.a617e044.chunk.css",
+    "main.js": "/Robo-Project/static/js/main.d6dcc71d.chunk.js",
+    "main.js.map": "/Robo-Project/static/js/main.d6dcc71d.chunk.js.map",
+    "runtime-main.js": "/Robo-Project/static/js/runtime-main.d66bacff.js",
+    "runtime-main.js.map": "/Robo-Project/static/js/runtime-main.d66bacff.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Robo-Project/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5c742d84.chunk.js": "/Robo-Project/static/js/2.5c742d84.chunk.js",
+    "static/js/2.5c742d84.chunk.js.map": "/Robo-Project/static/js/2.5c742d84.chunk.js.map",
+    "static/js/3.f2eb3fe8.chunk.js": "/Robo-Project/static/js/3.f2eb3fe8.chunk.js",
+    "static/js/3.f2eb3fe8.chunk.js.map": "/Robo-Project/static/js/3.f2eb3fe8.chunk.js.map",
+    "index.html": "/Robo-Project/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Robo-Project/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/Robo-Project/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5c742d84.chunk.js.LICENSE.txt": "/Robo-Project/static/js/2.5c742d84.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Robo-Project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d66bacff.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5c742d84.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d6dcc71d.chunk.js"
+  ]
+}
